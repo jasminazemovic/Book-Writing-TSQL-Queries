@@ -1,2 +1,2 @@
-# Book-Writing-TSQL-Queries
-PDF version of the book published for MVP Press 2012. 
+# Writing T-SQL Queries using Microsoft SQL Server - Book 
+PDF version
